@@ -1,23 +1,23 @@
 # Sales_Exploratory_Data_Analysis
 
-# Overview
+## Overview
 This project analyzes sales data for customers during the Diwali season. It includes customer demographics, purchasing behavior, and the amount spent. Through visualizations and statistical analysis, the project provides insights into which customer segments contribute most to sales and highlights trends by region, gender, and product categories. The goal is to understand consumer behavior patterns during a key sales period and identify areas for business optimization.
 
-# The flow of data analysis:
+## The flow of data analysis:
 
 - Load and clean data.
 - Explore data structure and content.
 - Visualize patterns and trends.
 - Interpret the results for actionable outcomes.
 
-# Technologies Used
+## Technologies Used
 Python: Primary language for data analysis.
 Jupyter Notebook: Interactive environment for writing and running Python code.
 Pandas: For data manipulation and analysis.
 NumPy: For numerical computations.
 Matplotlib and Seaborn: For data visualization and plotting graphs.
 
-# Outcome
+## Outcome
 Gender-based Insights: Analyze purchasing trends among male and female customers.
 Age Group Insights: Identify which age group is spending the most during the Diwali season.
 Product Preferences: Insights into which product categories are most popular among different demographics.
