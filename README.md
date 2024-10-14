@@ -26,6 +26,6 @@ This project analyzes sales data for customers during the Diwali season. It incl
 
 # Conclusion
 This project provides a comprehensive exploratory analysis of sales data that can be used by businesses to make data-driven decisions. 
-Th eresult we got for this project is **Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category**
+The result we got for this project is - **Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category**
 
 Author - Sagar Mainalle
